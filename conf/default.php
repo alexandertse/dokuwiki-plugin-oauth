@@ -8,6 +8,9 @@
 $conf['auth0-key']           = '';
 $conf['auth0-secret']        = '';
 $conf['auth0-domain']        = '';
+$conf['azure-tenant']        = '';
+$conf['azure-key']           = '';
+$conf['azure-secret']        = '';
 $conf['custom-redirectURI']  = '';
 $conf['facebook-key']        = '';
 $conf['facebook-secret']     = '';
